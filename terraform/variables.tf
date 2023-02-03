@@ -1,5 +1,5 @@
 locals {
-  data_lake_bucket = ""
+  data_lake_bucket = "debucketpipeline"
 }
 
 variable "project" {
